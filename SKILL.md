@@ -1,6 +1,6 @@
 ---
+name: design-engineer-skill
 description: The entry point for the design engineering skill graph. A traversable knowledge base covering philosophy, visual craft, motion, and component patterns for building interfaces that feel alive.
-title: Design Engineering
 ---
 
 # Design Engineering
