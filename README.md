@@ -12,11 +12,15 @@ This is a skill graph — a traversable knowledge base covering philosophy, visu
 - **patterns** — full component implementations that combine multiple techniques into real UI
 - **reference** — supporting material the graph links into
 
-The entry point is [`skill.md`](./skill.md).
+The entry point is [`SKILL.md`](./SKILL.md).
 
 ## Install
 
-Clone into your Claude skills directory:
+```bash
+npx skills add outlawcollin/design-engineer-skill -y -g
+```
+
+Or clone manually into your Claude skills directory:
 
 ```bash
 git clone https://github.com/outlawcollin/design-engineer-skill ~/.claude/skills/design-engineer-skill
